@@ -13,6 +13,9 @@
 # Used by dotenv library to load environment variables.
 # .env
 
+# ruby version
+.ruby-version
+
 ## Specific to RubyMotion:
 .dat*
 .repl_history
