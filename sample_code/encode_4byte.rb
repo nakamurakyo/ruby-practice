@@ -12,18 +12,3 @@ puts test2 =  encode_4byte_characters('🤡と🤯')
 puts '============================='
 puts decode_4byte_characters(test1)
 puts decode_4byte_characters(test2)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
