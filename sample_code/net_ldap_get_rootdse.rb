@@ -19,7 +19,7 @@
 #   end
 # end
 
-### Rake タスク
+### Root DSEを取得する　Rake タスク
 
 # desc 'ldap user no suffix test'
 # task :test2 do
